@@ -14,7 +14,7 @@
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/tak4869?label=Reddit&logo=reddit&style=flat" />
   </a>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=taksas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=taksas&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taksas&count_private=true&show_icons=true&theme=react)
 
