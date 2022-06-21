@@ -16,8 +16,6 @@
     <a href="http://qiita.com/taksas">
     <img height="20" src="https://qiita-badge.apiapi.app/s/taksas/posts.svg" />
   </a>
-  <//qiita.com/taksas">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/taksas/contributions.svg" />
 </p>
 <br>
 
