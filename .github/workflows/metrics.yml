@@ -27,7 +27,7 @@ jobs:
           # Options
           user: taksas
           template: classic
-          base: activity, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: detailed
