@@ -42,6 +42,6 @@
   <img alt="stats" height="200px" width=match-parent src="https://raw.githubusercontent.com/taksas/taksas/main/profile-summary-card-output/nord_dark/3-stats.svg" />
   <img alt="productive-time" height="200px" width=match-parent src="https://raw.githubusercontent.com/taksas/taksas/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
 </p>
-<p align="center"> 
-<img width= "1500px" src="github-metrics.svg" />
+<p align="right"> 
+<img width= "600px" src="github-metrics.svg" />
   </p>
