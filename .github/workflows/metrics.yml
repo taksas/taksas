@@ -28,6 +28,7 @@ jobs:
           user: taksas
           template: classic
           base: ""
+          config_display: columns
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: detailed
