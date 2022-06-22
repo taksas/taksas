@@ -17,7 +17,14 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/taksas/posts.svg" />
   </a>
 </p>
+
+
+![Metrics](/github-metrics.svg)
+
 <br>
+
+
+
 
 <p align="center"> 
   <img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=taksas&theme=nord&column=7" />
