@@ -20,7 +20,7 @@
 
 
 <p align="center"> 
-  <img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=taksas&theme=nord&column=7" />
+  <img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=taksas&theme=nord&column=8" />
 </p>
 
 <p align="center"> 
