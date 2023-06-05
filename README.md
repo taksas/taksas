@@ -4,9 +4,6 @@
   <a href="https://github.com/taksas/taksas/">
     <img src="https://komarev.com/ghpvc/?username=taksas" alt="taksas" />
   </a>
-  <a href="http://twitter.com/taksasDESUYO">
-    <img height="20" src="https://img.shields.io/twitter/follow/taksasDESUYO?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/taksas">
     <img height="20" src="https://img.shields.io/github/followers/taksas?label=follow&logo=github&style=flat" />
   </a>
@@ -20,7 +17,7 @@
 
 
 <p align="center"> 
-  <img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=taksas&theme=nord&column=8" />
+  <img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=taksas&theme=nord&column=9" />
 </p>
 
 <p align="center"> 
