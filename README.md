@@ -1,7 +1,7 @@
 <p align="center"> Hi! I'm taksas.</p>
 
 <p align="center"> 
-  <img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=taksas&theme=nord&column=9" />
+  <img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=taksas&theme=nord&column=10" />
 </p>
 
 <p align="center"> 
